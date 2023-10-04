@@ -1,0 +1,23 @@
+.test1 {
+    text-transform: capitalize;
+    /* text-transform:lowercase; */
+    /* text-transform:uppercase;  */
+    /* text-align:center; */
+    /* text-align:right; */
+    text-align: left;
+    /* font-size:50px; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: 'Times New Roman', Times, serif; */
+    line-height: 100px;
+    word-spacing: 100px;
+    letter-spacing: 10px;
+    font-style: italic;
+    color: red;
+    background-color:black;
+    background-image: url(selva.jpg);
+    border: 5px solid black;
+    opacity:0.5px;
+    height: 100px;
+
+    
+}

@@ -1,0 +1,32 @@
+.welcome {
+    border: 1px solid black;
+    width: 100px;
+
+    /* margin */
+    /* Margins are used to create space around elements,
+     outside of any defined borders. */
+
+    /* margin-top: 100px;
+    /* margin-left: 50px; */
+
+    /* 2 side top&bottom , right&left*/
+    margin: 40px 50px;
+    
+    /*4 side top,right,bottom,left */
+    margin: 20px 40px 50px 40px;
+
+    /* padding */
+    /* Padding is used to create space inbetween border and content,
+     inside of any defined borders. */
+
+    /* padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 40px;
+    padding-bottom: 50px; */
+
+    /* 2 side top&bottom , right&left*/
+    padding: 10px 50px;
+
+    /* 4 side top right bottom left */
+    /* padding: 90px 40px 70px 100px; */
+}

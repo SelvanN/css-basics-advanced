@@ -1,0 +1,23 @@
+ .test1 {
+     background-image: url(selva.jpg);
+     width: 300px;
+     height: 300px;
+     background-repeat: none;
+     opacity: 1;
+     /* background-color: aqua; */
+ }
+
+ /* .test2 {
+    background-image: url(selva.jpg);
+    background-repeat: no-repeat; 
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+} */
+
+
+/* notes */
+
+/* please read the tags usage properly */
+/* property and value is important */
+/* background-repeat : none, repeat-x, repeat-y, no-repeat */

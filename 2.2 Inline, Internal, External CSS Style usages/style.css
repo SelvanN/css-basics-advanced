@@ -1,0 +1,13 @@
+h2 {
+    color: red;
+}
+
+/* notes */
+
+/* 
+    <!-- inside the head section we should apply/link the External CSS style using <link> tag & attributes. -->
+
+    <!-- eg: <link rel="stylesheet" href="style.css"> -->
+    <!-- As a developer most Commonly use External style only. -->
+    
+*/

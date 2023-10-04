@@ -1,0 +1,38 @@
+/* colors , background color , borders , opacity */
+
+* {
+    background-color: rgba(180, 230, 56, 0.5);
+}
+
+.test1 {
+    color: #40E0D0;
+}
+
+#test2 {
+    background-color: hsl(11, 53%, 24%, 0.3);
+    /* opacity */    
+}
+
+
+.test3 {
+    background-color: rgb(45, 129, 29, 0.5);
+    /* opacity */
+    border: 5px solid red;
+}
+
+/* notes */
+/* they are  three types of color code */
+
+/*  hex colorcode      rgb              HSL */
+/*    #40E0D0       rgb(64, 224, 208)    174°, 72%, 56% */
+
+/* hex - hexadecimal colorcode */
+/* rgb - red green bule */
+/* HSL - hue saturation lightness  */
+/* rgba & hsla - red green bule alpha  & hue saturation ligthness alpha*/
+
+/* alpha is a fourth parameter and changing opacity 0.0 to 1.0  */
+/* The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all): */
+/* highest opacity is 1 */
+/* lowest opacity is 0  */
+/* a - alpha using to changing opacity   */

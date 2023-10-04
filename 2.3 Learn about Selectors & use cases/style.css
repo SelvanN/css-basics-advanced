@@ -1,0 +1,33 @@
+/* This tag is using to comment the line  */
+
+/* Universal selector:(*) */
+
+*{
+    color:red
+}
+
+/* 1. html selector tags: */
+
+h1{
+    color: blue;
+}
+
+/* 2. class selector: */
+
+.heading1{
+    color: red;
+}
+
+
+/* 3. id selector: */
+
+#subheading{
+    color: blueviolet;
+}
+
+
+/* 4. multiple group selector: */
+
+.heading1,#subheading{
+    color: green;
+}

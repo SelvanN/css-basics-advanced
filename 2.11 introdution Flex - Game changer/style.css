@@ -1,0 +1,50 @@
+.greet {
+    background-color: brown;
+    padding: 20px;
+    font-size: 30px;
+    min-height:300px;
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: row; its a default value */
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+    justify-content: center;
+    /* justify-content:right; */
+    /* justify-content: left; */
+    /* justify-content: space-around; */
+    justify-content: space-between;
+
+    align-items: center;
+    /* align-items: end; */
+    /* align-items: stretch; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end;  */
+
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap-reverse; */
+
+}
+
+.msg1,
+.msg2,
+.msg3 {
+    padding: 5px;
+    margin: 20px;
+    width: 200px;
+}
+
+.msg1 {
+    background-color: aqua;
+    /* min-height: 50px; */
+}
+
+.msg2 {
+    background-color: yellow;
+    min-height: 75px;
+}
+
+.msg3 {
+    background-color: green;
+    min-height: 100px;
+}

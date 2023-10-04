@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* notes */
+/* using universal selector to reset the elements margins and padding , */
+/* because by default every elements having a margins and padding ,
+               that's why we are mentioned here margin and padding is 0px */
